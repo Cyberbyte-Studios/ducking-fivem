@@ -1,0 +1,17 @@
+{
+	"name": "Moss Testing",
+	"author": "Maurice Moss",
+	"website": "cyberbyte.org.uk",
+	"resources": {
+		"esx-org/es_extended": "1.0.11",
+		"esx-org/esx_menu_default": "1.0.2",
+		"esx-org/esx_menu_dialog": "1.0.0",
+		"esx-org/esx_menu_list": "1.0.0"
+	},
+	"folder": {
+		"esx-org/es_extended": "essential",
+		"esx-org/esx_menu_default": "esx",
+		"esx-org/esx_menu_dialog": "esx",
+		"esx-org/esx_menu_list": "esx"
+	}
+}
